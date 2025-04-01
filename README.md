@@ -1,0 +1,2 @@
+# scalperNinja
+pinescript indicators
